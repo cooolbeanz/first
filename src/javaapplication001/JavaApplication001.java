@@ -18,8 +18,13 @@ public class JavaApplication001 {
     public static void main(String[] args) {
         // TODO code application logic here
         // add a comment
+        
         System.out.println("Hello, World!");
-        System.out.println("Another Line");
-    }
+        System.out.println("Another Line"); 
+        for ( int i = 0 ; i < 20 ; i++) 
+        {
+            System.out.print("(i)");
+        }
     
+    }
 }
