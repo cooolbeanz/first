@@ -18,7 +18,7 @@ public class JavaApplication001 {
     public static void main(String[] args) {
         // TODO code application logic here
         // add a comment
-        
+        System.out.println("Hello, World!");
     }
     
 }
